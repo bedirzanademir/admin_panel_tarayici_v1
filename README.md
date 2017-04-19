@@ -1,4 +1,4 @@
-#Admin Panel Tarayıcı
+# Admin Panel Tarayıcı
 Sürüm: v1.0 - 21.01.2017
 
 Admin Panel Tarayıcı belirtilen web sitesinin admin paneli ve login sayfalarını tarar 
@@ -6,8 +6,8 @@ Admin Panel Tarayıcı belirtilen web sitesinin admin paneli ve login sayfaları
 php, asp, aspx, html, htm, js, cgi, brf, cfm destekler
 
 Bedir Zana Demir | http://instagram.com/bedirzd
-##İndir
+## İndir
 -> http://ko.tc/admin_panel_tarayici_v1_indir
 
-##Resim
+## Resim
 <img src="http://i.hizliresim.com/pXA2jN.png">
