@@ -5,7 +5,6 @@ Admin Panel Tarayıcı belirtilen web sitesinin admin paneli ve login sayfaları
 
 php, asp, aspx, html, htm, js, cgi, brf, cfm destekler
 
-Bedir Zana Demir | http://instagram.com/bedirzd
 ## İndir
 -> http://ko.tc/admin_panel_tarayici_v1_indir
 
